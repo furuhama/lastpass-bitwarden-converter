@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# その他
+*.swp
+*.tmp
+*.bak
+
+# dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# CSV変換結果
+bitwarden.csv
